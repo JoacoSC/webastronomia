@@ -11,15 +11,15 @@
                         <div class="form-group">
                             <h5 class="d-flex d-lg-flex justify-content-center align-items-center justify-content-lg-center align-items-lg-end" style="height: 140px;border-radius: 10px;text-align: center;font-size: 24px;">
                                 Email</h5>
-                                <input class="form-control" type="email"></div>
+                                <input class="form-control" type="email" name="email"></div>
                         <div class="form-group">
                             <h5 class="d-flex d-lg-flex justify-content-center align-items-center justify-content-lg-center align-items-lg-end" style="height: 140px;border-radius: 10px;text-align: center;font-size: 24px;">
                                 Nombre</h5>
-                                <input class="form-control" type="text"></div>
+                                <input class="form-control" type="text" name="nombre"></div>
                         <div class="form-group">
                             <h5 class="d-flex d-lg-flex justify-content-center align-items-center justify-content-lg-center align-items-lg-end" style="height: 140px;border-radius: 10px;text-align: center;font-size: 24px;">
                                 Contraseña</h5>
-                                <input class="form-control" type="password"></div>
+                                <input class="form-control" type="password"  name="contraseña"></div>
                         <div class="form-group">
                             <h5 class="d-flex d-lg-flex justify-content-center align-items-center justify-content-lg-center align-items-lg-end" style="height: 140px;border-radius: 10px;text-align: center;font-size: 24px;">
                                 Institución</h5>
